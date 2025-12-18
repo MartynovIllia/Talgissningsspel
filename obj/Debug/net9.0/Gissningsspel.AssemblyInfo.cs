@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Gissningsspel")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1a34551db0363d8a7985eecf2188b59ef00a4b26")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+281094248c00e18a7615dedf464448c01efecd32")]
 [assembly: System.Reflection.AssemblyProductAttribute("Gissningsspel")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Gissningsspel")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

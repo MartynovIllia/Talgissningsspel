@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ilma08001\\INF Teknik\\GitHub\\Gissningsspel\\Gissningsspel.csproj": {}
+    "/Users/illiamartinov/Code/GitHub/Talgissningsspel/Gissningsspel.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ilma08001\\INF Teknik\\GitHub\\Gissningsspel\\Gissningsspel.csproj": {
+    "/Users/illiamartinov/Code/GitHub/Talgissningsspel/Gissningsspel.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ilma08001\\INF Teknik\\GitHub\\Gissningsspel\\Gissningsspel.csproj",
+        "projectUniqueName": "/Users/illiamartinov/Code/GitHub/Talgissningsspel/Gissningsspel.csproj",
         "projectName": "Gissningsspel",
-        "projectPath": "C:\\Users\\ilma08001\\INF Teknik\\GitHub\\Gissningsspel\\Gissningsspel.csproj",
-        "packagesPath": "C:\\Users\\ilma08001\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ilma08001\\INF Teknik\\GitHub\\Gissningsspel\\obj\\",
+        "projectPath": "/Users/illiamartinov/Code/GitHub/Talgissningsspel/Gissningsspel.csproj",
+        "packagesPath": "/Users/illiamartinov/.nuget/packages/",
+        "outputPath": "/Users/illiamartinov/Code/GitHub/Talgissningsspel/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\ilma08001\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "/Users/illiamartinov/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net9.0"
@@ -38,7 +38,7 @@
           "auditLevel": "low",
           "auditMode": "direct"
         },
-        "SdkAnalysisLevel": "9.0.300"
+        "SdkAnalysisLevel": "10.0.100"
       },
       "frameworks": {
         "net9.0": {
@@ -59,7 +59,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.304/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/10.0.101/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
